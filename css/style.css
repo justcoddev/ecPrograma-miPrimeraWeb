@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Estilos globales */
+body {
+  background-color: #000000;
+color: rgb(0, 252, 126);
+}
+
+h1 {
+  font-size: 70px;
+  color: greenyellow;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 18px;
+}
+
+/* Header */
+img {
+  width: 700px;
+  height: 500px;
+  display: block;
+  text-align: center;
+}
+.titulo_rosado{
+  color: pink;
+}
